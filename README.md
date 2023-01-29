@@ -15,9 +15,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/29043415?s=200&v=4" title="catboost" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" title="xgboost" width="65" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" title="xgboost" width="75" height="40"/>&nbsp;
 <img src="https://github.com/microsoft/LightGBM/raw/master/docs/logo/LightGBM_logo_black_text.svg" title="lightgbm" width="70" height="40"/>&nbsp;
-<img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" title="pyspark" width="40" height="40"/>&nbsp;
+<img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" title="pyspark" width="60" height="40"/>&nbsp;
 
 
 В свободное от работы время я работаю над следующими проектами, которые находятся в публичном доступе:
