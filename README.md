@@ -5,11 +5,13 @@
 
 Я Junior Data Scientist. Мне нравится находить закономерности в данных и создавать модели машинного обучения, которые позволят оптимизировать затраты, найти новые способы увеличения прибыли для бизнеса, улучшить сервис для пользователей. 
 
-Я постоянно совершенствую свои навыки и изучаю новые технологии. На данный момент в всоей работе я использую следующие инструменты:
+Я постоянно совершенствую свои навыки и изучаю новые технологии. На данный момент в своей работе я использую:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="pandas" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="numpy" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" width="30" height="30"/>&nbsp;
 
 
 В свободное от работы время я работаю над следующими проектами, которые находятся в публичном доступе:
