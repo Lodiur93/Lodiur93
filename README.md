@@ -10,10 +10,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="pandas" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="numpy" width="40" height="40"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" title="scikit-learn" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://avatars.githubusercontent.com/u/29043415?s=200&v=4" title="git" width="40" height="40"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/29043415?s=200&v=4" title="catboost" width="40" height="40"/>&nbsp;
 
 
 В свободное от работы время я работаю над следующими проектами, которые находятся в публичном доступе:
