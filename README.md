@@ -16,9 +16,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/29043415?s=200&v=4" title="catboost" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" title="xgboost" width="75" height="40"/>&nbsp;
-<img src="https://github.com/microsoft/LightGBM/raw/master/docs/logo/LightGBM_logo_black_text.svg" title="lightgbm" width="70" height="40"/>&nbsp;
-<img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" title="pyspark" width="70" height="40"/>&nbsp;
-<img src="https://keras.io/img/logo.png" title="keras" width="110" height="40"/>&nbsp;
+<img src="https://github.com/microsoft/LightGBM/raw/master/docs/logo/LightGBM_logo_black_text.svg" title="lightgbm" width="80" height="40"/>&nbsp;
+<img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" title="pyspark" width="80" height="40"/>&nbsp;
+<img src="https://keras.io/img/logo.png" title="keras" width="120" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Logo%20with%20text%20for%20GitHub%20Top.png" title="catboost" width="100" height="40"/>&nbsp;
 
 
