@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Всем привет! 👋
+### Меня зовут Никита Назаров
 <!--
 **Lodiur93/Lodiur93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
